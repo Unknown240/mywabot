@@ -1,0 +1,2 @@
+# Mongo database for store primary data
+MONGODB_URL=mongodb+srv://Calvinfirlansyah:Nscrew123@cluster0.yynh1ey.mongodb.net/?retryWrites=true&w=majority
